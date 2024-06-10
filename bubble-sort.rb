@@ -13,3 +13,6 @@ def bubble_sort(arr)
   end
   arr
 end
+
+int_list = [4, 3, 78, 2, 0, 2]
+puts bubble_sort(int_list)
